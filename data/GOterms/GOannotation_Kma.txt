@@ -1,0 +1,222 @@
+Entry	Protein names	Gene names  (primary )	Gene names  (ORF )	System
+W0T3P9	Phosphotransferase (EC 2.7.1.-)	GLK1	KLMA_10051	Glycolysis
+W0TF55	Phosphotransferase (EC 2.7.1.-)	RAG5	KLMA_60412	Glycolysis
+W0T4R5	Glucose-6-phosphate isomerase (EC 5.3.1.9)	RAG2	KLMA_10763	Glycolysis
+W0T4J4	ATP-dependent 6-phosphofructokinase (ATP-PFK) (Phosphofructokinase) (EC 2.7.1.11) (Phosphohexokinase)	PFK1	KLMA_10341	Glycolysis
+W0TDM8	ATP-dependent 6-phosphofructokinase (ATP-PFK) (Phosphofructokinase) (EC 2.7.1.11) (Phosphohexokinase)	PFK2	KLMA_60461	Glycolysis
+W0T9W3	Fructose-bisphosphate aldolase (FBP aldolase) (EC 4.1.2.13)	FBA1	KLMA_40388	Glycolysis
+W0T9E0	Glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GAP1	KLMA_40218	Glycolysis
+W0T9I5	Glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GPD2	KLMA_20296	Glycolysis
+W0TG93	Glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GAP3	KLMA_80059	Glycolysis
+W0T3H5	Phosphoglycerate kinase (EC 2.7.2.3)	PGK	KLMA_10540	Glycolysis
+W0T6W0	Phosphoglycerate mutase 3	GPM3	KLMA_10182	Glycolysis
+W0T6W1	Phosphoglycerate mutase (EC 5.4.2.11)	GPM1	KLMA_20098	Glycolysis
+W0T7K9	Phosphopyruvate hydratase	ENO	KLMA_10462	Glycolysis
+W0TDT2	Pyruvate kinase (EC 2.7.1.40)	PYK1	KLMA_60219	Glycolysis
+W0TDE9	Triosephosphate isomerase (EC 5.3.1.1)	TPI1	KLMA_40125	Glycolysis
+W0TED9	6-phosphofructo-2-kinase 2	PFK27	KLMA_70159	Glycolysis
+W0T2Z0	Aconitate hydratase, mitochondrial (Aconitase) (EC 4.2.1.-)	ACO2a	KLMA_10153	TCA cycle
+W0T4J0	Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial (EC 6.2.1.5) (Succinyl-CoA synthetase beta chain) (SCS-beta)	LSC2	KLMA_10336	TCA cycle
+W0T7K3	Isocitrate dehydrogenase [NAD] subunit, mitochondrial	IDH2	KLMA_20575	TCA cycle
+W0T7K6	Aconitate hydratase, mitochondrial (Aconitase) (EC 4.2.1.-)	ACO2b	KLMA_30312	TCA cycle
+W0T883	Succinate--CoA ligase [ADP-forming] subunit alpha, mitochondrial (EC 6.2.1.5) (Succinyl-CoA synthetase subunit alpha) (SCS-alpha)	LSC1	KLMA_20568	TCA cycle
+W0TA03	Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial (EC 1.3.5.1)	SDH1	KLMA_20466	TCA cycle
+W0TAI6	Malate dehydrogenase (EC 1.1.1.37)	MDH2	KLMA_40391	TCA cycle
+W0TBF6	Succinate dehydrogenase [ubiquinone] cytochrome b subunit		KLMA_30124	TCA cycle
+W0TBI1	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	IDP2	KLMA_30149	TCA cycle
+W0TBX1	Dihydrolipoyllysine-residue succinyltransferase (EC 2.3.1.61)	KGD2	KLMA_50493	TCA cycle
+W0TD84	Malate dehydrogenase (EC 1.1.1.37)	MDH3	KLMA_40055	TCA cycle
+W0TDY2	2-oxoglutarate dehydrogenase E1 component	KGD1	KLMA_60541	TCA cycle
+W0TEG4	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	IDP1	KLMA_40470	TCA cycle
+W0TEG9	Malate dehydrogenase (EC 1.1.1.37)	MDH1	KLMA_60167	TCA cycle
+W0TFA8	Citrate synthase	CIT3	KLMA_70444	TCA cycle
+W0TGG7	Isocitrate dehydrogenase [NAD] subunit, mitochondrial	IDH1	KLMA_80139	TCA cycle
+W0THE4	Malate synthase (EC 2.3.3.9)	MLS1	KLMA_60243	TCA cycle
+W0TJM6	Fumarate hydratase (EC 4.2.1.2)	FUM1	KLMA_80028	TCA cycle
+W0TKL8	Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial (EC 1.3.5.1)	SDH2	KLMA_80408	TCA cycle
+W0T5D1	Pyruvate dehydrogenase E1 component subunit alpha (EC 1.2.4.1)	PDA1	KLMA_20172	TCA cycle
+W0T7E5	Pyruvate dehydrogenase E1 component subunit beta (EC 1.2.4.1)	PDB1	KLMA_20278	TCA cycle
+W0TER0	Acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)	LAT1	KLMA_60529	TCA cycle
+W0TFW6	Dihydrolipoyl dehydrogenase (EC 1.8.1.4)	LPD1	KLMA_60420	TCA cycle
+W0TGF8	Succinate dehydrogenase [ubiquinone] cytochrome b small subunit	SDH4	KLMA_50550	TCA cycle
+W0T342	Cytochrome b-c1 complex subunit 8	QCR8	KLMA_10390	ETC
+W0T4A3	Cytochrome b-c1 complex subunit 7	QCR7	KLMA_10034	ETC
+W0T4N4	Cytochrome b-c1 complex subunit Rieske, mitochondrial (EC 7.1.1.8)	RIP1	KLMA_10723	ETC
+W0T7G1	Cytochrome c1	CYT1	KLMA_30267	ETC
+W0T8X6	C reductase complex	QCR9	KLMA_30208	ETC
+W0TBV3	Cytochrome b-c1 complex subunit 2	QCR2	KLMA_40479	ETC
+W0TFW4	Cytochrome b-c1 complex subunit 1	COR1	KLMA_70095	ETC
+W0TG79	Cytochrome b-c1 complex subunit 6	QCR6	KLMA_50475	ETC
+W0TGH3	Cytochrome b	COB	KLMA_90003	ETC
+W0T557	Cytochrome c oxidase subunit (Cytochrome c oxidase polypeptide VIa)	COX13	KLMA_20299	ETC
+W0T9H3	Cytochrome c oxidase subunit 6	COX6	KLMA_40253	ETC
+W0T9K0	Cytochrome c oxidase subunit	COX12	KLMA_40066	ETC
+W0TA28	Cytochrome c oxidase subunit 4	COX4	KLMA_20491	ETC
+W0TA38	Cytochrome c oxidase polypeptide VIII	COX8	KLMA_40468	ETC
+W0TH97	Cytochrome c oxidase subunit 3	COX3	KLMA_90011	ETC
+W0THT4	Cytochrome c oxidase subunit 7	COX7	KLMA_80322	ETC
+W0TIU0	Cytochrome c oxidase subunit 2	COX2	KLMA_90002	ETC
+A0A1L7LMC3	ATP synthase subunit 9, mitochondrial		KLMA_90012	ATP synthase
+W0T470	ATP synthase subunit 4, mitochondrial	ATP4	KLMA_10765	ATP synthase
+W0T6Z4	ATP synthase subunit H		KLMA_10227	ATP synthase
+W0T794	ATP synthase subunit delta, mitochondrial (F-ATPase delta subunit)	ATP16	KLMA_30187	ATP synthase
+W0T9V6	ATP synthase subunit g	ATP20	KLMA_30306	ATP synthase
+W0TA81	ATP synthase subunit 5, mitochondrial	atpH	KLMA_30431	ATP synthase
+W0TAU7	ATP synthase subunit J		KLMA_40511	ATP synthase
+W0TC70	ATP synthase subunit e, mitochondrial	TIM11	KLMA_50351	ATP synthase
+W0TCT8	ATP synthase subunit d, mitochondrial	ATP7	KLMA_60151	ATP synthase
+W0TDL5	ATP synthase subunit gamma	ATP3	KLMA_50237	ATP synthase
+W0TEE5	ATP synthase subunit K		KLMA_60137	ATP synthase
+W0TFB3	ATP synthase subunit H		KLMA_50135	ATP synthase
+W0TFY6	ATP synthase subunit beta (EC 7.1.2.2)	ATP2	KLMA_60435	ATP synthase
+W0TG03	ATP synthase subunit alpha	ATP1	KLMA_70140	ATP synthase
+W0TH05	ATP synthase subunit epsilon		KLMA_80022	ATP synthase
+W0TI50	ATP synthase subunit 8		KLMA_90009	ATP synthase
+W0TKQ2	ATP synthase subunit a	ATP6	KLMA_90010	ATP synthase
+W0T294	"Histidine biosynthesis trifunctional protein [Includes: Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19); Phosphoribosyl-ATP pyrophosphohydrolase (EC 3.6.1.31); Histidinol dehydrogenase (HDH) (EC 1.1.1.23)]"	HIS4	KLMA_10065	Amino acid metabolism
+W0T2B8	Homoserine O-acetyltransferase	MET2	KLMA_10090	Amino acid metabolism
+W0T2P5	Phosphoserine transaminase (EC 2.6.1.52)	SER1	KLMA_10220	Amino acid metabolism
+W0T3A2	Precorrin-2 dehydrogenase (EC 1.3.1.76)	MET8	KLMA_10243	Amino acid metabolism
+W0T3S7	Arginosuccinase	ARG4	KLMA_10433	Amino acid metabolism
+W0T4S5	Histidinol-phosphatase (HolPase) (EC 3.1.3.15)	HIS2	KLMA_10436	Amino acid metabolism
+W0T517	Aromatic amino acid aminotransferase 1	ARO8	KLMA_20259	Amino acid metabolism
+W0T5M3	Anthranilate phosphoribosyltransferase	TRP4	KLMA_20454	Amino acid metabolism
+W0T5N8	Branched-chain-amino-acid aminotransferase (EC 2.6.1.42)	BAT1	KLMA_10514	Amino acid metabolism
+W0T6M2	Prephenate dehydrogenase [NADP(+)] (PRDH) (EC 1.3.1.13)	TYR1	KLMA_10819	Amino acid metabolism
+W0T718	Aspartate aminotransferase (EC 2.6.1.1)	AAT1	KLMA_20153	Amino acid metabolism
+W0T778	Amino-acid acetyltransferase, mitochondrial (EC 2.3.1.1) (Glutamate N-acetyltransferase) (N-acetylglutamate synthase)	ARG2	KLMA_20817	Amino acid metabolism
+W0T7J3	Adenylyl-sulfate kinase (EC 2.7.1.25)	MET14	KLMA_30070	Amino acid metabolism
+W0T7M0	Acetolactate synthase (EC 2.2.1.6)	ILV2	KLMA_30105	Amino acid metabolism
+W0T7V7	"Imidazole glycerol phosphate synthase hisHF [Includes: Glutaminase (EC 3.5.1.2); Cyclase]"	HIS7	KLMA_20413	Amino acid metabolism
+W0T805	Uroporphyrinogen-III C-methyltransferase	MET1	KLMA_30250	Amino acid metabolism
+W0T818	3-isopropylmalate dehydrogenase (EC 1.1.1.85)	LEU2	KLMA_20483	Amino acid metabolism
+W0T8S2	Acetohydroxy-acid synthase small subunit	ILV6	KLMA_30148	Amino acid metabolism
+W0T8T9	Ornithine transcarbamylase	ARG3	KLMA_30168	Amino acid metabolism
+W0T8Z5	Aspartate transaminase (EC 2.6.1.1)	AAT2	KLMA_40083	Amino acid metabolism
+W0T9F4	Saccharopine dehydrogenase [NADP	LYS9	KLMA_40016	Amino acid metabolism
+W0T9G2	Methylenetetrahydrofolate reductase (EC 1.5.1.20)	MET13	KLMA_20276	Amino acid metabolism
+W0T9R9	ATP phosphoribosyltransferase (EC 2.4.2.17)	HIS1	KLMA_40338	Amino acid metabolism
+W0T9T0	"Pentafunctional AROM polypeptide [Includes: 3-dehydroquinate synthase (DHQS) (EC 4.2.3.4); 3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19) (5-enolpyruvylshikimate-3-phosphate synthase) (EPSP synthase) (EPSPS); Shikimate kinase (SK) (EC 2.7.1.71); 3-dehydroquinate dehydratase (3-dehydroquinase) (EC 4.2.1.10); Shikimate dehydrogenase (EC 1.1.1.25)]"	ARO1	KLMA_40161	Amino acid metabolism
+W0T9U4	Saccharopine dehydrogenase [NAD(+), L-lysine-forming] (SDH) (EC 1.5.1.7) (Lysine--2-oxoglutarate reductase)	LYS1	KLMA_40368	Amino acid metabolism
+W0TAM2	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	HIS3	KLMA_50038	Amino acid metabolism
+W0TAS9	Homoserine dehydrogenase (HDH) (EC 1.1.1.3)	HOM6	KLMA_40491	Amino acid metabolism
+W0TAV6	Ketol-acid reductoisomerase, mitochondrial (EC 1.1.1.86) (Acetohydroxy-acid reductoisomerase) (Alpha-keto-beta-hydroxylacyl reductoisomerase)	ILV5	KLMA_30631	Amino acid metabolism
+W0TB47	Ornithine aminotransferase (EC 2.6.1.13)	CAR2	KLMA_50178	Amino acid metabolism
+W0TB52	Dihydroxy-acid dehydratase	ILV3	KLMA_40259	Amino acid metabolism
+W0TB78	Anthranilate synthase component 2 (EC 4.1.1.48) (EC 4.1.3.27) (Anthranilate synthase, glutamine amidotransferase component) (Multifunctional tryptophan biosynthesis protein)	TRP3	KLMA_30029	Amino acid metabolism
+W0TBD2	Phospho-2-dehydro-3-deoxyheptonate aldolase (EC 2.5.1.54)	ARO3	KLMA_40107	Amino acid metabolism
+W0TBP5	Aromatic amino acid aminotransferase 1	ARO8	KLMA_50151	Amino acid metabolism
+W0TBW6	Assimilatory sulfite reductase (NADPH) (EC 1.8.1.2)	MET5	KLMA_40494	Amino acid metabolism
+W0TBX9	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	HOM2	KLMA_50503	Amino acid metabolism
+W0TC56	Aspartokinase (EC 2.7.2.4)	HOM3	KLMA_40342	Amino acid metabolism
+W0TCN9	Kinase (EC 2.7.-.-)	ARG82	KLMA_50536	Amino acid metabolism
+W0TD39	Glutamate synthase [NADH]	GLT1	KLMA_50304	Amino acid metabolism
+W0TDS0	Threonine dehydratase (EC 4.3.1.19) (Threonine deaminase)	ILV1	KLMA_50297	Amino acid metabolism
+W0TF44	N-(5'-phosphoribosyl)anthranilate isomerase (EC 5.3.1.24)	TRP1	KLMA_60130	Amino acid metabolism
+W0TFG9	Sulfate adenylyltransferase (EC 2.7.7.4) (ATP-sulfurylase) (Sulfate adenylate transferase) (SAT)	MET3	KLMA_80061	Amino acid metabolism
+W0TGD1	Chorismate synthase (EC 4.2.3.5)	ARO2	KLMA_80099	Amino acid metabolism
+W0TGV0	Alpha-aminoadipate reductase (EC 1.2.1.31) (EC 1.2.1.95) (L-aminoadipate-semialdehyde dehydrogenase)	LYS2	KLMA_80299	Amino acid metabolism
+W0TGZ0	Phosphoserine phosphatase	SER2	KLMA_60078	Amino acid metabolism
+W0TGZ5	Anthranilate synthase (EC 4.1.3.27)	TRP2	KLMA_80344	Amino acid metabolism
+W0THR2	Methylenetetrahydrofolate reductase (EC 1.5.1.20)	MET12	KLMA_60378	Amino acid metabolism
+W0THU4	Chorismate mutase (EC 5.4.99.5)	ARO7	KLMA_80332	Amino acid metabolism
+W0THV6	Aromatic amino acid aminotransferase 2	ARO9	KLMA_60423	Amino acid metabolism
+W0TI04	Homoisocitrate dehydrogenase	LYS12	KLMA_80130	Amino acid metabolism
+W0TIY9	3'-phosphoadenylylsulfate reductase (EC 1.8.4.8) (PAPS reductase, thioredoxin dependent) (PAdoPS reductase)	MET16	KLMA_70271	Amino acid metabolism
+W0TKF9	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase (EC 2.1.1.14)	MET6	KLMA_80348	Amino acid metabolism
+W0TF75	Prephenate dehydratase (EC 4.2.1.51)	PHA2	KLMA_70162	Amino acid metabolism
+W0T7U1	Asparagine synthetase domain-containing protein YML096W		KLMA_20665	Amino acid metabolism
+W0TIZ7	Asparagine synthase (glutamine-hydrolyzing) (EC 6.3.5.4)	ASN1	KLMA_70281	Amino acid metabolism
+W0T7F7	Cystathionine beta-synthase (EC 4.2.1.22)	CYS4	KLMA_20288	Amino acid metabolism
+W0TB76	Putative cysteine synthase		KLMA_40047	Amino acid metabolism
+W0TBC0	Cysteine synthase	cysB	KLMA_50076	Amino acid metabolism
+W0T6D8	NAD-specific glutamate dehydrogenase (EC 1.4.1.2)	GDH2	KLMA_20734	Amino acid metabolism
+W0T7Y2	S-methyl-5'-thioadenosine phosphorylase (EC 2.4.2.28) (5'-methylthioadenosine phosphorylase) (MTA phosphorylase) (MTAP) (MTAPase)	MEU1	KLMA_30225	Amino acid metabolism
+W0TAN7	Glutamate decarboxylase (EC 4.1.1.15)	GAD1	KLMA_30556	Amino acid metabolism
+W0T6B9	D-fructose-6-phosphate amidotransferase (EC 2.6.1.16) (Hexosephosphate aminotransferase)	GFA1	KLMA_20155	Amino acid metabolism
+W0T771	GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2) (GMP synthetase) (Glutamine amidotransferase)	GUA1	KLMA_10317	Amino acid metabolism
+W0TBC7	Formylglycinamide ribonucleotide amidotransferase (EC 6.3.5.3) (Formylglycinamide ribotide amidotransferase)	ADE6	KLMA_50283	Amino acid metabolism
+W0TD58	Carbamoyl-phosphate synthase (glutamine-hydrolyzing) (EC 6.3.5.5)	CPA1	KLMA_60286	Amino acid metabolism
+W0TE50	Aspartate carbamoyltransferase (EC 2.1.3.2) (EC 6.3.5.5)	URA2	KLMA_60037	Amino acid metabolism
+W0TGP2	Glutamine synthetase (EC 6.3.1.2)	GLN1	KLMA_70123	Amino acid metabolism
+W0T562	Alanine--glyoxylate aminotransferase (EC 2.6.1.44) (EC 2.6.1.51)	AGX1	KLMA_20304	Amino acid metabolism
+W0T6I8	Dihydrofolate reductase (EC 1.5.1.3)	DFR1	KLMA_20779	Amino acid metabolism
+W0T6S6	Serine hydroxymethyltransferase (EC 2.1.2.1)	SHM2	KLMA_20305	Amino acid metabolism
+W0T828	Low specificity L-threonine aldolase	GLY1	KLMA_30275	Amino acid metabolism
+W0TF11	Serine hydroxymethyltransferase (EC 2.1.2.1)	SHM1	KLMA_50050	Amino acid metabolism
+W0TE83	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase (EC 5.3.1.16) (5-proFAR isomerase) (Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase)	HIS6	KLMA_50477	Amino acid metabolism
+W0TI35	Histidinol-phosphate aminotransferase	HIS5	KLMA_80165	Amino acid metabolism
+W0TCC3	Arginase (EC 3.5.3.1)	CAR1	KLMA_50024	Amino acid metabolism
+W0TCW7	"Arginine biosynthesis bifunctional protein ArgJ, mitochondrial [Cleaved into: Arginine biosynthesis bifunctional protein ArgJ alpha chain; Arginine biosynthesis bifunctional protein ArgJ beta chain] [Includes: Glutamate N-acetyltransferase (GAT) (EC 2.3.1.35) (Ornithine acetyltransferase) (OATase) (Ornithine transacetylase); Amino-acid acetyltransferase (EC 2.3.1.1) (N-acetylglutamate synthase) (AGS)]"		KLMA_60181	Amino acid metabolism
+W0TG27	Acetylglutamate kinase (EC 1.2.1.38) (EC 2.7.2.8) (N-acetyl-L-glutamate 5-phosphotransferase) (N-acetyl-gamma-glutamyl-phosphate reductase) (N-acetyl-glutamate semialdehyde dehydrogenase) (NAG kinase)	ARG5,6	KLMA_70175	Amino acid metabolism
+W0T899	Homoaconitase, mitochondrial (EC 4.2.1.36) (Homoaconitate hydratase)	LYS4	KLMA_30527	Amino acid metabolism
+W0T423	Enolase-phosphatase E1 (EC 3.1.3.77) (2,3-diketo-5-methylthio-1-phosphopentane phosphatase)	UTR4	KLMA_10705	Amino acid metabolism
+W0T4F1	S-adenosylmethionine synthase (EC 2.5.1.6)	SAM2	KLMA_10079	Amino acid metabolism
+W0T870	Cystathionine beta-lyase	STR3	KLMA_30325	Amino acid metabolism
+W0TE11	1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase (EC 1.13.11.54) (Acireductone dioxygenase (Fe(2+)-requiring)) (ARD) (Fe-ARD)	ADI1	KLMA_50412	Amino acid metabolism
+W0TE54	Methylthioribose-1-phosphate isomerase (M1Pi) (MTR-1-P isomerase) (EC 5.3.1.23) (S-methyl-5-thioribose-1-phosphate isomerase) (Translation initiation factor eIF-2B subunit alpha/beta/delta-like protein)	MRI1	KLMA_50452	Amino acid metabolism
+W0TE93	Putative aldolase class 2 protein YJR024C	MDE1	KLMA_60082	Amino acid metabolism
+W0TBY7	Proline dehydrogenase (EC 1.5.5.2)	PUT1	KLMA_50513	Amino acid metabolism
+W0TC82	"Multifunctional fusion protein [Includes: L-glutamate gamma-semialdehyde dehydrogenase (EC 1.2.1.88) (L-glutamate gamma-semialdehyde dehydrogenase); Delta-1-pyrroline-5-carboxylate dehydrogenase (P5C dehydrogenase)]"		KLMA_30424	Amino acid metabolism
+W0TD69	Glutamate-5-semialdehyde dehydrogenase (EC 1.2.1.41) (Glutamyl-gamma-semialdehyde dehydrogenase)	PRO2	KLMA_50117	Amino acid metabolism
+W0TED6	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	PRO3	KLMA_60434	Amino acid metabolism
+W0T2K0	Catabolic L-serine/threonine dehydratase	CHA1	KLMA_10018	Amino acid metabolism
+W0T8X3	Homoserine kinase (EC 2.7.1.39)	THR1	KLMA_20086	Amino acid metabolism
+W0T3V9	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GND1	KLMA_10468	PP shunt
+W0TCV6	Transaldolase (EC 2.2.1.2)	TAL1	KLMA_30634	PP shunt
+W0TCY6	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)	ZWF	KLMA_50631	PP shunt
+W0TD99	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	RPE1	KLMA_60024	PP shunt
+W0TFW7	D-ribose-5-phosphate ketol-isomerase (EC 5.3.1.6) (Phosphoriboisomerase) (Ribose-5-phosphate isomerase)	RKI1	KLMA_80221	PP shunt
+W0THR5	Transketolase (EC 2.2.1.1)	TKL1	KLMA_80302	PP shunt
+W0TF97	6-phosphogluconolactonase-like protein	SOL1	KLMA_70192	PP shunt
+W0T4I6	6-phosphogluconolactonase-like protein	SOL3	KLMA_10331	PP shunt
+W0T3E2	Amidophosphoribosyltransferase (ATase) (EC 2.4.2.14) (Glutamine phosphoribosylpyrophosphate amidotransferase)	ADE4	KLMA_10505	Nucleotide biosynthesis
+W0T4C3	Dihydroorotase (EC 3.5.2.3)	URA4	KLMA_10633	Nucleotide biosynthesis
+W0T4U6	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6) (SAICAR synthetase)	ADE1	KLMA_10189	Nucleotide biosynthesis
+W0T5N9	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	URA3	KLMA_10731	Nucleotide biosynthesis
+W0T7J6	Adenylosuccinate lyase (ASL) (EC 4.3.2.2) (Adenylosuccinase)	ADE13	KLMA_30075	Nucleotide biosynthesis
+W0T7Y5	Orotate phosphoribosyltransferase (EC 2.4.2.10)	URA5	KLMA_10587	Nucleotide biosynthesis
+W0T8A8	Phosphoribosylaminoimidazole carboxylase (EC 4.1.1.21)	ADE2	KLMA_20598	Nucleotide biosynthesis
+W0T8N2	Dihydroorotate dehydrogenase (quinone), mitochondrial (DHOdehase) (EC 1.3.5.2)	URA9	KLMA_30480	Nucleotide biosynthesis
+W0T8P1	AIR synthase (EC 6.3.3.1) (EC 6.3.4.13) (Glycinamide ribonucleotide synthetase) (Phosphoribosyl-aminoimidazole synthetase) (Phosphoribosylamine--glycine ligase) (Phosphoribosylformylglycinamidine cyclo-ligase) (Phosphoribosylglycinamide synthetase)	ADE5,7	KLMA_30697	Nucleotide biosynthesis
+W0T8P2	Dihydroorotate dehydrogenase (fumarate) (EC 1.3.98.1) (Dihydroorotate oxidase)	URA1	KLMA_10832	Nucleotide biosynthesis
+W0T966	5'-phosphoribosylglycinamide transformylase (EC 2.1.2.2) (GAR transformylase)	ADE8	KLMA_30650	Nucleotide biosynthesis
+W0T9L0	5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase (EC 2.1.2.3) (EC 3.5.4.10) (AICAR transformylase) (IMP synthase) (Inosinicase) (Phosphoribosylaminoimidazolecarboxamide formyltransferase)	ADE17	KLMA_40081	Nucleotide biosynthesis
+W0TBC7	Formylglycinamide ribonucleotide amidotransferase (EC 6.3.5.3) (Formylglycinamide ribotide amidotransferase)	ADE6	KLMA_50283	Nucleotide biosynthesis
+W0TD58	Carbamoyl-phosphate synthase (glutamine-hydrolyzing) (EC 6.3.5.5)	CPA1	KLMA_60286	Nucleotide biosynthesis
+W0TE50	Aspartate carbamoyltransferase (EC 2.1.3.2) (EC 6.3.5.5)	URA2	KLMA_60037	Nucleotide biosynthesis
+W0TE67	Uridylate kinase (UK) (EC 2.7.4.14) (ATP:UMP phosphotransferase) (Deoxycytidylate kinase) (CK) (dCMP kinase) (Uridine monophosphate kinase) (UMP kinase) (UMPK)	URA6	KLMA_40365	Nucleotide biosynthesis
+W0TGM4	Adenylosuccinate synthetase (AMPSase) (AdSS) (EC 6.3.4.4) (IMP--aspartate ligase)		KLMA_50610	Nucleotide biosynthesis
+W0TIH4	CTP synthase (EC 6.3.4.2) (UTP--ammonia ligase)	URA7	KLMA_70086	Nucleotide biosynthesis
+W0T453	Ribose-phosphate diphosphokinase (EC 2.7.6.1)	PRS5	KLMA_10176	Nucleotide biosynthesis
+W0TBZ0	Ribose-phosphate diphosphokinase (EC 2.7.6.1)	PRS1	KLMA_40524	Nucleotide biosynthesis
+W0TFK5	Ribose-phosphate diphosphokinase (EC 2.7.6.1)	PRS3	KLMA_60320	Nucleotide biosynthesis
+W0TG97	Ribose-phosphate diphosphokinase (EC 2.7.6.1)	PRS4	KLMA_80361	Nucleotide biosynthesis
+W0T4N5	Elongation of fatty acids protein (EC 2.3.1.199) (Very-long-chain 3-oxoacyl-CoA synthase)	FEN1	KLMA_10159	Fatty acid metabolism
+W0T4Z7	Acyl-CoA desaturase (EC 1.14.19.1)	OLE1	KLMA_10244	Fatty acid metabolism
+W0T7P9	Very-long-chain 3-oxoacyl-CoA reductase (EC 1.1.1.330) (3-ketoacyl-CoA reductase) (3-ketoreductase) (KAR) (Microsomal beta-keto-reductase)		KLMA_30357	Fatty acid metabolism
+W0T9I2	Acyl-CoA desaturase (EC 1.14.19.1)	OLE1	KLMA_30418	Fatty acid metabolism
+W0TAW0	"Fatty acid synthase subunit beta (EC 2.3.1.86) [Includes: 3-hydroxyacyl-[acyl-carrier-protein] dehydratase (EC 4.2.1.59); Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9); [Acyl-carrier-protein] acetyltransferase (EC 2.3.1.38); [Acyl-carrier-protein] malonyltransferase (EC 2.3.1.39); S-acyl fatty acid synthase thioesterase (EC 3.1.2.14)]"	FAS1	KLMA_40526	Fatty acid metabolism
+W0TBZ3	Elongation of fatty acids protein (EC 2.3.1.199) (Very-long-chain 3-oxoacyl-CoA synthase)	SUR4	KLMA_50271	Fatty acid metabolism
+W0TD46	Probable trans-2-enoyl-CoA reductase	ETR1	KLMA_60271	Fatty acid metabolism
+W0TEG5	3-oxoacyl-[acyl-carrier-protein] synthase homolog	CEM1	KLMA_70184	Fatty acid metabolism
+W0TEH6	Biotin carboxylase (EC 6.3.4.14) (EC 6.4.1.2)	ACC1	KLMA_60469	Fatty acid metabolism
+W0TEK0	Beta-ketoacyl-[acyl-carrier-protein] synthase I (EC 2.3.1.41)	FAS2	KLMA_70219	Fatty acid metabolism
+W0TAX9	Malonyl CoA-acyl carrier protein transacylase	MCT1	KLMA_20796	Fatty acid metabolism
+W0T472	Enoyl reductase TSC13	TSC13	KLMA_10196	Fatty acid metabolism
+W0T3G4	Phosphomevalonate kinase (EC 2.7.4.2)	ERG8	KLMA_10313	Sterol biosynthesis
+W0T6X1	FPP:FPP farnesyltransferase (EC 2.5.1.21) (Farnesyl-diphosphate farnesyltransferase) (Squalene synthase)	ERG9	KLMA_20722	Sterol biosynthesis
+W0T7I0	C-5 sterol desaturase	ERG3	KLMA_20308	Sterol biosynthesis
+W0T980	3-keto-steroid reductase	ERG27	KLMA_40163	Sterol biosynthesis
+W0T9G1	Sterol-4-alpha-carboxylate 3-dehydrogenase	ERG26	KLMA_40026	Sterol biosynthesis
+W0T9Z2	Mevalonate kinase (MK) (EC 2.7.1.36)	ERG12	KLMA_40418	Sterol biosynthesis
+W0T9Z7	Terpene cyclase/mutase family member (EC 5.4.99.-)	ERG7	KLMA_30341	Sterol biosynthesis
+W0TAM6	Delta(24(24(1)))-sterol reductase	ERG4	KLMA_40436	Sterol biosynthesis
+W0TAZ1	Sterol 24-C-methyltransferase (EC 2.1.1.41) (Delta(24)-sterol C-methyltransferase)	ERG6	KLMA_30671	Sterol biosynthesis
+W0TBM3	Squalene monooxygenase (EC 1.14.14.17)	ERG1	KLMA_30204	Sterol biosynthesis
+W0TD26	C-4 methylsterol oxidase	ERG25	KLMA_50284	Sterol biosynthesis
+W0TFZ8	3-hydroxy-3-methylglutaryl coenzyme A synthase (HMG-CoA synthase) (EC 2.3.3.10)	ERG13	KLMA_60445	Sterol biosynthesis
+W0TG18	Delta(14)-sterol reductase	ERG24	KLMA_80276	Sterol biosynthesis
+W0THR7	Acetyl-CoA acetyltransferase	ERG10	KLMA_60383	Sterol biosynthesis
+W0TA79	Lanosterol 14-alpha demethylase	CYP707A7	KLMA_20551	Sterol biosynthesis
+W0TF60	Cytochrome P450 61	cyp524A1	KLMA_60417	Sterol biosynthesis

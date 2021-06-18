@@ -1,0 +1,21 @@
+AA	Abundance mmol/gDW
+L-alanine	0.508512977149
+L-arginine	0.39001055738
+L-asparagine	0.487698660343
+L-aspartate	0.520064711019
+L-cysteine	0.110119464273
+L-glutamate	0.603509208182
+L-glutamine	0.374922650544
+L-glycine	0.466562873266
+L-histidine	0.194994680769
+L-isoleucine	0.5466584274
+L-leucine	0.846381763303
+L-lysine	0.633561379444
+L-methionine	0.188141358535
+L-phenylalanine	0.382044453443
+L-proline	0.390801868814
+L-serine	0.786114919325
+L-threonine	0.504249080275
+L-tryptophan	0.0960348272892
+L-tyrosine	0.297685002435
+L-valine	0.534672178771

@@ -1,0 +1,3 @@
+Organism	ATP_flux_LY	ATP_flux_HY	Net ATP production mmol/gDW/h	ATP_yield_total
+Sce	30.5711	5.9044	36.4755	1.979
+Kma	3.7641	26.7138	30.4779	5.6997
