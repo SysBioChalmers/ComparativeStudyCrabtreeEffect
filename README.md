@@ -1,7 +1,7 @@
 # ComparativeStudyCrabtreeEffect
 This repository contains a collection of scripts and data pertaining to the study:
 
-_Adaptations in metabolism and proteins translation give rise to the Crabtree effect in yeast_
+_Adaptations in metabolism and protein translation give rise to the Crabtree effect in yeast_
 
 In this study, the four yeasts _Saccharomyces cerevisiae_, _Schizosaccharomyces pombe_, _Kluyveromyces marxianus_ and _Scheffersomyces stipitis_ were grown in bioreactor in minimal media under conditions of glucose excess. We performed absolute proteome quantification combined with quantification of physiological parameters and genome-scale modeling. This repository contains the data and code used for analysis.
 
