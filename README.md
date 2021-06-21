@@ -1,4 +1,6 @@
 # ComparativeStudyCrabtreeEffect
+[![DOI](https://zenodo.org/badge/370585206.svg)](https://zenodo.org/badge/latestdoi/370585206)
+
 This repository contains a collection of scripts and data pertaining to the study:
 
 _Adaptations in metabolism and protein translation give rise to the Crabtree effect in yeast_
